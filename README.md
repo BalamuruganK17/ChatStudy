@@ -120,7 +120,7 @@ threading.Thread(target=run_client).start()
 
 ```
 ## Output:
-<img width="1207" height="623" alt="Screenshot 2026-04-28 155805" src="https://github.com/user-attachments/assets/d813d431-beda-435d-b63c-8c767b48c9f3" />
+<img width="1017" height="495" alt="Screenshot 2026-04-28 160410" src="https://github.com/user-attachments/assets/a0e04183-0ff9-4a22-a2f8-80817344373c" />
 
 ## Result:
 
