@@ -94,6 +94,7 @@ def run_server():
 
         reply = input("Server >> ")
         conn.send(reply.encode())
+
 def run_client():
     client = socket.socket()
     host = socket.gethostname()
@@ -113,7 +114,7 @@ threading.Thread(target=run_client).start()
 
 ```
 ## Output:
-<img width="1017" height="495" alt="Screenshot 2026-04-28 160410" src="https://github.com/user-attachments/assets/a0e04183-0ff9-4a22-a2f8-80817344373c" />
+<img width="866" height="364" alt="Screenshot 2026-04-28 161107" src="https://github.com/user-attachments/assets/dc9ff58e-a201-4ff6-8ace-6f87ce448920" />
 
 ## Result:
 
